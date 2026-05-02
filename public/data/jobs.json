@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-01T08:17:15.043256+00:00",
+  "scraped_at": "2026-05-02T07:52:27.344778+00:00",
   "total_fields": 12,
   "failed": [],
   "status": "success",
@@ -8,8 +8,8 @@
       "id": 3,
       "name": "Mechatroniker",
       "demand_score": 100,
-      "total_listings": 6060,
-      "ba_listings": 6060,
+      "total_listings": 6050,
+      "ba_listings": 6050,
       "ausbildung_de": 0,
       "stepstone": 0,
       "top_cities": [
@@ -20,14 +20,14 @@
         "Schwerin, Mecklenburg"
       ],
       "companies_hiring": [],
-      "scraped_at": "2026-05-01T08:15:59.163320+00:00"
+      "scraped_at": "2026-05-02T07:49:09.597241+00:00"
     },
     {
       "id": 4,
       "name": "Elektroniker",
       "demand_score": 100,
-      "total_listings": 7462,
-      "ba_listings": 7462,
+      "total_listings": 7442,
+      "ba_listings": 7442,
       "ausbildung_de": 0,
       "stepstone": 0,
       "top_cities": [
@@ -38,14 +38,14 @@
         "Troisdorf"
       ],
       "companies_hiring": [],
-      "scraped_at": "2026-05-01T08:16:08.937411+00:00"
+      "scraped_at": "2026-05-02T07:49:32.358516+00:00"
     },
     {
       "id": 6,
       "name": "Fachkraft Lagerlogistik",
       "demand_score": 100,
-      "total_listings": 7410,
-      "ba_listings": 7410,
+      "total_listings": 7398,
+      "ba_listings": 7398,
       "ausbildung_de": 0,
       "stepstone": 0,
       "top_cities": [
@@ -56,32 +56,32 @@
         "Leipheim"
       ],
       "companies_hiring": [],
-      "scraped_at": "2026-05-01T08:16:25.687512+00:00"
+      "scraped_at": "2026-05-02T07:50:16.482168+00:00"
     },
     {
       "id": 1,
       "name": "Pflegefachmann",
       "demand_score": 92,
-      "total_listings": 4620,
-      "ba_listings": 4620,
+      "total_listings": 4617,
+      "ba_listings": 4617,
       "ausbildung_de": 0,
       "stepstone": 0,
       "top_cities": [
         "Rechberghausen",
         "Marne, Holstein",
         "Göppingen",
-        "Emsdetten",
-        "Stuttgart"
+        "Rostock",
+        "Detmold"
       ],
       "companies_hiring": [],
-      "scraped_at": "2026-05-01T08:15:41.128001+00:00"
+      "scraped_at": "2026-05-02T07:48:24.896742+00:00"
     },
     {
       "id": 8,
       "name": "Kfz-Mechatroniker",
-      "demand_score": 77,
-      "total_listings": 3899,
-      "ba_listings": 3899,
+      "demand_score": 78,
+      "total_listings": 3901,
+      "ba_listings": 3901,
       "ausbildung_de": 0,
       "stepstone": 0,
       "top_cities": [
@@ -92,32 +92,32 @@
         "Marburg"
       ],
       "companies_hiring": [],
-      "scraped_at": "2026-05-01T08:16:42.546700+00:00"
+      "scraped_at": "2026-05-02T07:51:00.632740+00:00"
     },
     {
       "id": 5,
       "name": "Industriemechaniker",
       "demand_score": 65,
-      "total_listings": 3256,
-      "ba_listings": 3256,
+      "total_listings": 3253,
+      "ba_listings": 3253,
       "ausbildung_de": 0,
       "stepstone": 0,
       "top_cities": [
+        "Gera",
         "Vilsbiburg",
         "Friedrichshafen",
         "Husum, Nordsee",
-        "Dormagen",
-        "Malsch bei Wiesloch"
+        "Dormagen"
       ],
       "companies_hiring": [],
-      "scraped_at": "2026-05-01T08:16:17.471368+00:00"
+      "scraped_at": "2026-05-02T07:49:54.261324+00:00"
     },
     {
       "id": 2,
       "name": "Fachinformatiker",
       "demand_score": 60,
-      "total_listings": 3025,
-      "ba_listings": 3025,
+      "total_listings": 3024,
+      "ba_listings": 3024,
       "ausbildung_de": 0,
       "stepstone": 0,
       "top_cities": [
@@ -128,14 +128,14 @@
         "Leinfelden-Echterdingen"
       ],
       "companies_hiring": [],
-      "scraped_at": "2026-05-01T08:15:49.795963+00:00"
+      "scraped_at": "2026-05-02T07:48:47.270340+00:00"
     },
     {
       "id": 10,
       "name": "Bau / Maurer",
       "demand_score": 38,
-      "total_listings": 1932,
-      "ba_listings": 1932,
+      "total_listings": 1933,
+      "ba_listings": 1933,
       "ausbildung_de": 0,
       "stepstone": 0,
       "top_cities": [
@@ -146,14 +146,14 @@
         "Coswig bei Dresden"
       ],
       "companies_hiring": [],
-      "scraped_at": "2026-05-01T08:16:58.016506+00:00"
+      "scraped_at": "2026-05-02T07:51:43.030650+00:00"
     },
     {
       "id": 9,
       "name": "Hotelfachmann",
       "demand_score": 25,
-      "total_listings": 1256,
-      "ba_listings": 1256,
+      "total_listings": 1253,
+      "ba_listings": 1253,
       "ausbildung_de": 0,
       "stepstone": 0,
       "top_cities": [
@@ -164,14 +164,14 @@
         "Dobbin-Linstow"
       ],
       "companies_hiring": [],
-      "scraped_at": "2026-05-01T08:16:50.274977+00:00"
+      "scraped_at": "2026-05-02T07:51:21.392872+00:00"
     },
     {
       "id": 11,
       "name": "Tiefbaufacharbeiter",
       "demand_score": 23,
-      "total_listings": 1191,
-      "ba_listings": 1191,
+      "total_listings": 1189,
+      "ba_listings": 1189,
       "ausbildung_de": 0,
       "stepstone": 0,
       "top_cities": [
@@ -181,7 +181,7 @@
         "Rheda-Wiedenbrück"
       ],
       "companies_hiring": [],
-      "scraped_at": "2026-05-01T08:17:07.327136+00:00"
+      "scraped_at": "2026-05-02T07:52:04.237197+00:00"
     },
     {
       "id": 7,
@@ -199,7 +199,7 @@
         "Herne, Westfalen"
       ],
       "companies_hiring": [],
-      "scraped_at": "2026-05-01T08:16:35.280923+00:00"
+      "scraped_at": "2026-05-02T07:50:38.737666+00:00"
     },
     {
       "id": 12,
@@ -217,7 +217,7 @@
         "Hagen, Westfalen"
       ],
       "companies_hiring": [],
-      "scraped_at": "2026-05-01T08:17:15.042947+00:00"
+      "scraped_at": "2026-05-02T07:52:27.344653+00:00"
     }
   ]
 }
